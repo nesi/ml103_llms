@@ -1,11 +1,11 @@
 # ml103_llms
-### Getting Started with Large Language Models on NeSI
+## Getting Started with Large Language Models on NeSI
 
-Goal - running llama (oLlama?) on NeSI GPUs
+***Goal*** - running llama (ollama?) on NeSI GPUs
+- https://ollama.com/library/llama3.1
 
-### Other workshops
-
-[IndigiData](https://github.com/nicholson-consulting/indigidata_nlp_training/tree/main) : Text classification, in line with ML101.
+#### Other workshops
+[IndigiData](https://github.com/nicholson-consulting/indigidata_nlp_training/tree/main) : Text classification
 - [Setup](https://github.com/nicholson-consulting/indigidata_nlp_training/blob/main/setup_instructions.ipynb)
 - [Classifying Kupu (words)](https://github.com/nicholson-consulting/indigidata_nlp_training/blob/main/classifyingKupu.ipynb)
 
