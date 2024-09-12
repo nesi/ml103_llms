@@ -1,6 +1,9 @@
 # ml103_llms
 ## Getting Started with Large Language Models on NeSI
 
+VERSION 0.1
+Please dump and commit ideas either direct to README or to create a new doc.
+
 ***Goal*** - running llama (ollama?) on NeSI GPUs
 - https://ollama.com/library/llama3.1
 
