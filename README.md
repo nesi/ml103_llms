@@ -6,6 +6,8 @@ Please dump and commit ideas either direct to README or to create a new doc.
 
 ***Goal*** - running llama (ollama?) on NeSI GPUs
 - https://ollama.com/library/llama3.1
+- 3-4 Hours
+  
 
 #### Other workshops
 [IndigiData](https://github.com/nicholson-consulting/indigidata_nlp_training/tree/main) : Text classification
