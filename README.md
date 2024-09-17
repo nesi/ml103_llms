@@ -10,7 +10,7 @@ Please dump and commit ideas either direct to README or to create a new doc.
 - 3-4 Hours
   
 
-#### Other workshops
+#### Other Workshops
 [IndigiData](https://github.com/nicholson-consulting/indigidata_nlp_training/tree/main) : Text classification
 - [Setup](https://github.com/nicholson-consulting/indigidata_nlp_training/blob/main/setup_instructions.ipynb)
 - [Classifying Kupu (words)](https://github.com/nicholson-consulting/indigidata_nlp_training/blob/main/classifyingKupu.ipynb)
@@ -21,3 +21,5 @@ Please dump and commit ideas either direct to README or to create a new doc.
 - [Q&A Semantic Search](https://github.com/NCI900-Training-Organisation/Introduction-to-NLP/blob/main/notebooks/3-Q%26A_bert.ipynb)
 - [Topic Modelling](https://github.com/NCI900-Training-Organisation/Introduction-to-NLP/blob/main/notebooks/4-Topic_Modelling.ipynb)
 
+#### Links
+Localised AI Cluster - https://github.com/exo-explore/exo?tab=readme-ov-file
