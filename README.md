@@ -7,6 +7,7 @@ Please dump and commit ideas either direct to README or to create a new doc.
 ***Goal*** - running llama (ollama?) on NeSI GPUs
 - https://ollama.com/library/llama3.1
 - https://github.com/ollama/ollama
+- https://www.youtube.com/watch?v=wyDymuvkniY
 - 3-4 Hours
   
 
